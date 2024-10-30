@@ -13,7 +13,7 @@ final goRouterProvider = Provider<GoRouter>((ref) {
           routes: <RouteBase>[
             GoRoute(
               path: 'second_page',
-              builder: (context, state) => SecondPage(),
+              builder: (context, state) => const SecondPage(),
             )
           ]),
     ],
