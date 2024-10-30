@@ -1,16 +1,5 @@
 # flutter_application_1
 
-A new Flutter project.
+Flutter Qiita公開用のProjectです。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+本branchは [【Flutter】よくあるプロジェクト構成を作るまで#1 - go_routerで画面遷移 / flutter_hooksによるstate管理](https://qiita.com/hidepy/items/c3bd9ad767deb4117f7a) の修正後ソースとなります。
